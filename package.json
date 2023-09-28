@@ -1,0 +1,12 @@
+{
+  "name": "algo-v-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
