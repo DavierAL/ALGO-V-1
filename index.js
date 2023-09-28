@@ -1,4 +1,3 @@
-
 // max:                 9
 // min:                                1
 let numbers = [3, 7, 4, 9, 8, 2, 6, 1]
@@ -67,6 +66,12 @@ function findMinIndex(array) {
 // let { min, minIndex } = findMinIndex(numbers)
 // console.log('minimo: ' + min + ', indice: ' + minIndex)
 
+
+/*
+  caso práctico:
+  calcular el 'mayor' de varios objetos
+  de acuerdo a cierto criterio.
+*/
 let persons = [
   { name: 'David', age: 35 },
   { name: 'Benito', age: 25 },
